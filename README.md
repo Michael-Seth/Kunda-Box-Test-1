@@ -9,7 +9,7 @@ This is a simple API for registering users using Node.js, Express.js, and NeDB (
 
 ## Installation
 
-1. Clone the repository.
+1. Clone the repository with ` git clone https://github.com/Michael-Seth/Kunda-Box-Test-1 `
 2. Install dependencies with `npm install`.
 
 ## Usage
